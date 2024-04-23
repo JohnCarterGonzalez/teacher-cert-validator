@@ -1,0 +1,7 @@
+.direnv/
+*.env
+.ruff_cache
+flake.lock
+app/models/__pycache__/
+app/services/__pycache__/
+app/__pycache__/

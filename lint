@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+poetry run black --line-length 100 app
